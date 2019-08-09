@@ -1,2 +1,2 @@
 # gitbook-demo
-A gitbook demo deployed on github.
+A gitbook demo deployed on github pages.
